@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<finco>
+		<name>My CCard Company</name>
+		<email>contacy@ccard.io</email>
+		<legalname>CCard Co Inc.</legalname>
+		<street>Our street 1000</street>
+		<city>My city</city>
+		<state>My state</state>
+		<zip>00000</zip>
+		<phonenumber>(461)-111-111</phonenumber>
+		<urllogo>#</urllogo>
+		<establishedyear>2020</establishedyear>
+		<type>CCard</type>
+	</finco>
+</settings>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <database>
+        <driverName>com.mysql.cj.jdbc.Driver</driverName>
+        <userName>root</userName>
+        <password>Ethiopia12</password>
+        <host>localhost</host>
+        <port>3306</port>
+        <dbName>CCardApplicationDB</dbName>
+    </database>
+</config>
